@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MY NAME</title>
-    <link>http://example.com/index.xml</link>
+    <link>https://gauravsharma013.github.io/codigo.github.io/index.xml</link>
     <description>Recent content on MY NAME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Jan 2019 00:51:32 +0530</lastBuildDate>
-    <atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gauravsharma013.github.io/codigo.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello with Hugo</title>
-      <link>http://example.com/post/hello/</link>
+      <link>https://gauravsharma013.github.io/codigo.github.io/post/hello/</link>
       <pubDate>Tue, 15 Jan 2019 00:51:32 +0530</pubDate>
       
-      <guid>http://example.com/post/hello/</guid>
+      <guid>https://gauravsharma013.github.io/codigo.github.io/post/hello/</guid>
       <description>&lt;p&gt;Hello, this is my first post.&lt;/p&gt;
 </description>
     </item>

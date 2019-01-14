@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/post/hello/</loc>
+    <loc>https://gauravsharma013.github.io/codigo.github.io/post/hello/</loc>
     <lastmod>2019-01-15T00:51:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://gauravsharma013.github.io/codigo.github.io/</loc>
     <lastmod>2019-01-15T00:51:32+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/post/</loc>
+    <loc>https://gauravsharma013.github.io/codigo.github.io/post/</loc>
     <lastmod>2019-01-15T00:51:32+05:30</lastmod>
     <priority>0</priority>
   </url>
